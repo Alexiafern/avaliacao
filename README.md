@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo+ao+meu+Sitema+Web!+:%29)](https://git.io/typing-svg)
+### <img src = "https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif " width = "50px" /> Olá! Eu sou a Alexia Fernanda 👊 </br> </br>
+
 # avaliacao
 ### atividade avaliativa de sábado
 ### Cadastro de usuário, visualização do perfil de usuário, excluir cadastro
